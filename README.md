@@ -1,2 +1,5 @@
-# Simple_Arduino_Calculator
-Simple Arduino calculator made using an I2C LCD and the One Pin Keypad.
+# Simple Arduino Calculator
+This is a simple Arduino calculator with basic arithmetic operators and support for numbers with decimals. However, this calculator does have other limitations, to simplify the code, this calculator evaluates the result from left to right, without regard for the order of operations. It also has no support for negative numbers. However, feel free to implement this yourself as a coding challenge.
+
+You can find the tutorial to build it here:
+
