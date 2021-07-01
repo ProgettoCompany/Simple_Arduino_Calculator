@@ -1,3 +1,7 @@
+// Simple Arduino calculator made using an I2C LCD and the One Pin Keypad
+// Created by John Wolf for Progetto Company
+// Licensed under the MIT license.
+
 #include <String.h>
 #include <Wire.h> 
 // Liquid Crystal Library can be found here: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
